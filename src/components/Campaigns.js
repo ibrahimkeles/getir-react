@@ -22,7 +22,7 @@ export default function Campaigns() {
 
   }
   return (
-    <div className='container mx-auto max-w-[1233px]'>
+    <div className='container mx-auto max-w-[1233px] py-8'>
       <h3 className="text-sm font-semibold my-3">Kampanyalar</h3>
 
       <Slider {...settings} className='-mx-2'>
